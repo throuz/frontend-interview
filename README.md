@@ -1,8 +1,18 @@
 # frontend-interview
 
-## About
+## Common Interview Questions
 
-I am a skilled Frontend Developer with extensive experience in building high-performance web applications. With a strong foundation in React.js, Next.js, TypeScript, and various modern front-end tools, I specialize in creating scalable, maintainable, and user-friendly applications. My passion lies in optimizing user experiences, streamlining development processes, and working closely with cross-functional teams to deliver impactful digital solutions.
+1.  **Please introduce yourself**
+
+    I am a skilled Frontend Developer with extensive experience in building high-performance web applications. With a strong foundation in React.js, Next.js, TypeScript, and various modern front-end tools, I specialize in creating scalable, maintainable, and user-friendly applications. My passion lies in optimizing user experiences, streamlining development processes, and working closely with cross-functional teams to deliver impactful digital solutions.
+
+2.  **Why do you want to join our company?**
+
+    I’m really excited about your company's focus on creating impactful, user-centric digital experiences. After researching your recent projects, particularly your work in [specific project or tech], I believe my background in building scalable, performant web apps would be a great fit for your team. I admire the way your team fosters a collaborative environment and supports innovation, and I’m eager to bring my front-end expertise to contribute to your continued success.
+
+3.  **What contribution can you bring to our company?**
+
+    With my extensive experience in React and Next.js, I can help the team build high-performance, scalable applications that deliver exceptional user experiences. I’ve successfully worked on similar projects where I optimized the front-end architecture and collaborated closely with back-end developers to streamline the development process. My focus on continuous learning and implementing best practices would allow me to contribute valuable insights to improve code quality and team efficiency. I’m also eager to work in a collaborative environment, sharing knowledge and learning from other team members.
 
 ## Technical Knowledge and Experience
 
