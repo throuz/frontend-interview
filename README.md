@@ -4,15 +4,15 @@
 
 1.  **Please introduce yourself**
 
-    I am a skilled Frontend Developer with extensive experience in building high-performance web applications. With a strong foundation in React.js, Next.js, TypeScript, and various modern front-end tools, I specialize in creating scalable, maintainable, and user-friendly applications. My passion lies in optimizing user experiences, streamlining development processes, and working closely with cross-functional teams to deliver impactful digital solutions.
+    I’m a Frontend Developer with a lot of experience building fast and efficient web apps. I’m comfortable with React.js, Next.js, TypeScript, and a bunch of other modern tools. My main focus is making apps that are scalable, easy to maintain, and most importantly, provide a smooth user experience. I love making things run faster, working with teams to improve processes, and building products that actually make an impact.
 
 2.  **Why do you want to join our company?**
 
-    I’m really excited about your company's focus on creating impactful, user-centric digital experiences. After researching your recent projects, particularly your work in [specific project or tech], I believe my background in building scalable, performant web apps would be a great fit for your team. I admire the way your team fosters a collaborative environment and supports innovation, and I’m eager to bring my front-end expertise to contribute to your continued success.
+    I’m super excited about your focus on creating digital experiences that really matter to users. After checking out your recent work, especially [specific project or tech], I think my experience in building scalable, high-performance web apps could really add value to your team. I also really like the vibe of your team and how you encourage collaboration and innovation. I’d love to be a part of that and bring my front-end skills to help take things even further.
 
 3.  **What contribution can you bring to our company?**
 
-    With my extensive experience in React and Next.js, I can help the team build high-performance, scalable applications that deliver exceptional user experiences. I’ve successfully worked on similar projects where I optimized the front-end architecture and collaborated closely with back-end developers to streamline the development process. My focus on continuous learning and implementing best practices would allow me to contribute valuable insights to improve code quality and team efficiency. I’m also eager to work in a collaborative environment, sharing knowledge and learning from other team members.
+    I’ve got a lot of experience with React and Next.js, so I can definitely help the team build fast, scalable apps that give users a great experience. I’ve worked on projects where I optimized the front-end setup and worked closely with back-end devs to streamline the whole process. I’m always looking for ways to improve my skills and stay on top of best practices, so I think I could bring useful insights to improve both code quality and team efficiency. Plus, I really enjoy collaborating with others, sharing what I know, and learning from teammates.
 
 ## Technical Knowledge and Experience
 
